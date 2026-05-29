@@ -9,3 +9,5 @@ def is_prime(n):
 # Example
 print(is_prime(11))  # True
 print(is_prime(12))  # False
+
+print("add new feature")
